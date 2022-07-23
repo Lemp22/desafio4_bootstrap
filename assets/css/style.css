@@ -25,6 +25,8 @@
 
 .precio-real {
     display: inline;
+    text-decoration: line-through
+    
 }
 
 .text-success {
